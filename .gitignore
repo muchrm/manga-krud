@@ -1,0 +1,5 @@
+vendor
+Gopkg.lock
+coverage.txt
+profile.out
+config/env.go
